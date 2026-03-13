@@ -1,4 +1,4 @@
-public class UseCase1BookStay {
+public class UC1 {
     public static void main(String[] args) {
 
         System.out.println("=================================");
@@ -6,7 +6,7 @@ public class UseCase1BookStay {
         System.out.println(" Hotel Booking Management v1.0 ");
         System.out.println("=================================");
 
-        System.out.println("Application started successfully.");
+        System.out.println("System initialized successfully.");
     }
 
 }
